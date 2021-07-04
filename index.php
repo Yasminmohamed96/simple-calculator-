@@ -1,24 +1,4 @@
 <?php
-
-/*
-echo "hi <br>";
-ECHO 'HI <br>';
-print ("hello <br>");
-
-$num1=4;
-$num2="4";
-
-if ($num1===$num2)
-{
-    //same value but different datatype so false 
-    echo'===';
-}
-if ($num1==$num2)
-{
-    //same value even when it is string
-    echo'==';
-}
-*/
 echo'<html>
 <!TYPEDOC html>
 <head>
