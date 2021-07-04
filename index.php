@@ -44,13 +44,13 @@ switch($operator)
         $RESULT=$num1+$num2;
         break;
     case'-':
-        $RESULT=$num1+$num2;
+        $RESULT=$num1-$num2;
         break;
     case'*':
-        $RESULT=$num1+$num2;
+        $RESULT=$num1*$num2;
         break;
     case'/':
-         $RESULT=$num1+$num2;
+         $RESULT=$num1/$num2;
         break;
     default:
         echo"ERROR ,you should choose correct operand. ";
